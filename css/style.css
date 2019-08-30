@@ -388,7 +388,7 @@ h1 {
       padding-top: 30px;
       padding-bottom: 30px; } }
 
-#proj-h4tw, #proj-partnership, #proj-alteration, #proj-portfolio, #proj-landingpage, #proj-surveyform {
+#proj-h4tw, #proj-partnership, #proj-alteration, #proj-email, #proj-landingpage, #proj-surveyform {
   background-image: url("/images/h4tw-academy.png");
   background-size: cover;
   background-repeat: no-repeat;
@@ -397,13 +397,13 @@ h1 {
   border: 2px solid lightgray;
   cursor: pointer; }
   @media only screen and (max-width: 600px) {
-    #proj-h4tw, #proj-partnership, #proj-alteration, #proj-portfolio, #proj-landingpage, #proj-surveyform {
+    #proj-h4tw, #proj-partnership, #proj-alteration, #proj-email, #proj-landingpage, #proj-surveyform {
       width: 200px;
       height: 200px;
       border: 2px solid lightgray;
       animation: none; } }
   @media only screen and (min-width: 500px) and (max-width: 1200px) {
-    #proj-h4tw, #proj-partnership, #proj-alteration, #proj-portfolio, #proj-landingpage, #proj-surveyform {
+    #proj-h4tw, #proj-partnership, #proj-alteration, #proj-email, #proj-landingpage, #proj-surveyform {
       width: 250px;
       height: 250px;
       border: 2px solid lightgray;
@@ -426,8 +426,8 @@ h1 {
 #proj-alteration {
   background-image: url("/images/shobi-alterations.jpeg"); }
 
-#proj-portfolio {
-  background-image: url("/images/portfolio.jpg"); }
+#proj-email {
+  background-image: url("/images/email-development.png"); }
 
 #proj-landingpage {
   background-image: url("/images/landing-page.png"); }

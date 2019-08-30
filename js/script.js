@@ -124,8 +124,8 @@ $('.para2').click(function () {
   $('#proj-alteration button').click(function () {
     window.open('https://codepen.io/shobivijay90/pen/JqGeRG', '_blank')
   })
-  $('#proj-portfolio button').click(function () {
-    window.open('https://codepen.io/shobivijay90/pen/gyKLer', '_blank')
+  $('#proj-email button').click(function () {
+    window.open('https://codepen.io/shobivijay90/pen/ZEzJeMr', '_blank')
   })
   $('#proj-landingpage button').click(function () {
     window.open('https://codepen.io/shobivijay90/pen/yryZPv', '_blank')
